@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikku-19
+- 👋 Hi, I’m @Nikhil Kumae
 - 👀 I’m interested in Finance and Python
 - 🌱 I’m currently learning Python Language
 - 💞️ I’m looking to collaborate on ...
